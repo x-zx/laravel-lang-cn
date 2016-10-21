@@ -1,2 +1,2 @@
-# laravel-lang-cn
-laravel 中文语言包
+# laravel-lang-cn 中文语言包
+
